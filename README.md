@@ -114,7 +114,7 @@ Processing steps:
 
 ## ▶️ Installation
 
-git clone https://github.com/salamander-sy/road-anomaly-detection.git
+git clone https://github.com/prspresent/road-anomaly-detection.git
 cd road-anomaly-detection
 python3 -m venv road_env
 source road_env/bin/activate
