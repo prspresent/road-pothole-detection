@@ -114,8 +114,8 @@ Processing steps:
 
 ## ▶️ Installation
 
-git clone https://github.com/prspresent/road-anomaly-detection.git
-cd road-anomaly-detection
+git clone https://github.com/prspresent/road-pothole-detection.git
+cd road-pothole-detection
 python3 -m venv road_env
 source road_env/bin/activate
 pip install -r requirements.txt
